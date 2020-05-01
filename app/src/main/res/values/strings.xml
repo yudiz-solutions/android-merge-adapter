@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Merge Adapter</string>
+    <string name="food_gallery">Food Gallery \n choose your favorite food</string>
+    <string name="people_who_loved_to_eat_are_always_the_best_people">People who loved to eat are always the best people</string>
+    <string name="show_offer">Show offer</string>
+    <string name="hide_offer">Hide offer</string>
+    <string name="free_fries_on_selecting_2_pizza">Free fries on selecting 2 pizza</string>
+</resources>
